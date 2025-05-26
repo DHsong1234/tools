@@ -5,3 +5,4 @@ https://safari.ethz.ch/digitaltechnik/spring2021/doku.php?id=schedule
 
 https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html
 https://www.learnpytorch.io/00_pytorch_fundamentals/#random-tensors
+留学生瓜田网
