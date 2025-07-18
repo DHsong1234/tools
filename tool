@@ -11,4 +11,5 @@ https://www.thiings.co/things
 
 module build
 https://mjmwired.net/kernel/Documentation/kbuild/modules.txt
-小凑四叶START-194 在新聞部加班的我
+c++ cheat sheet
+https://hackingcpp.com/cpp/cheat_sheets.html
