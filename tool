@@ -13,3 +13,5 @@ module build
 https://mjmwired.net/kernel/Documentation/kbuild/modules.txt
 c++ cheat sheet
 https://hackingcpp.com/cpp/cheat_sheets.html
+
+https://app.readthedocs.org/projects/pysheeet/downloads/pdf/latest/
